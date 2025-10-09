@@ -1,0 +1,10 @@
+pandas
+geopandas
+rasterio
+numpy
+scikit-learn
+python-dateutil
+SQLAlchemy
+joblib
+streamlit
+plotly
